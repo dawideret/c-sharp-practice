@@ -1,0 +1,15 @@
+D:\Github-Repositories\c-sharp-practice\conversion_and_conditionals\bin\Debug\net6.0\conversion_and_conditionals.exe
+D:\Github-Repositories\c-sharp-practice\conversion_and_conditionals\bin\Debug\net6.0\conversion_and_conditionals.deps.json
+D:\Github-Repositories\c-sharp-practice\conversion_and_conditionals\bin\Debug\net6.0\conversion_and_conditionals.runtimeconfig.json
+D:\Github-Repositories\c-sharp-practice\conversion_and_conditionals\bin\Debug\net6.0\conversion_and_conditionals.dll
+D:\Github-Repositories\c-sharp-practice\conversion_and_conditionals\bin\Debug\net6.0\conversion_and_conditionals.pdb
+D:\Github-Repositories\c-sharp-practice\conversion_and_conditionals\obj\Debug\net6.0\conversion_and_conditionals.csproj.AssemblyReference.cache
+D:\Github-Repositories\c-sharp-practice\conversion_and_conditionals\obj\Debug\net6.0\conversion_and_conditionals.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github-Repositories\c-sharp-practice\conversion_and_conditionals\obj\Debug\net6.0\conversion_and_conditionals.AssemblyInfoInputs.cache
+D:\Github-Repositories\c-sharp-practice\conversion_and_conditionals\obj\Debug\net6.0\conversion_and_conditionals.AssemblyInfo.cs
+D:\Github-Repositories\c-sharp-practice\conversion_and_conditionals\obj\Debug\net6.0\conversion_and_conditionals.csproj.CoreCompileInputs.cache
+D:\Github-Repositories\c-sharp-practice\conversion_and_conditionals\obj\Debug\net6.0\conversion_and_conditionals.dll
+D:\Github-Repositories\c-sharp-practice\conversion_and_conditionals\obj\Debug\net6.0\refint\conversion_and_conditionals.dll
+D:\Github-Repositories\c-sharp-practice\conversion_and_conditionals\obj\Debug\net6.0\conversion_and_conditionals.pdb
+D:\Github-Repositories\c-sharp-practice\conversion_and_conditionals\obj\Debug\net6.0\conversion_and_conditionals.genruntimeconfig.cache
+D:\Github-Repositories\c-sharp-practice\conversion_and_conditionals\obj\Debug\net6.0\ref\conversion_and_conditionals.dll
