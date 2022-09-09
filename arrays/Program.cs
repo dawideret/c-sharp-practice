@@ -8,18 +8,20 @@
 
         for (int i = 0; i < george_grades.Length; i++)
         {
-            Console.Out.WriteLine(george_grades[i]);
+            Console.WriteLine(george_grades[i]);
         }
 
         // Multidimensional Arrays
-        int[,] two_dimensions = new int[10,10];
+        Console.WriteLine(" ----------------------- ");
+        int[,] two_dimensions = new int[30,30];
 
-        for (int x = 0; x < two_dimensions.Length; x++)
+        for (int x = 0; x < two_dimensions.GetLength(0); x++)
         {
-            for (int y = 0; y < two_dimensions.GetLength(x); y++)
+            for (int y = 0; y < two_dimensions.GetLength(1); y++)
             {
-
+                two_dimensions[x, y] = (x + 1) * y ^ 2;
+                Console.WriteLine(two_dimensions[x, y]);
             }
         }
-    }
+    }   
 }
