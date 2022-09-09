@@ -23,5 +23,27 @@
                 Console.WriteLine(two_dimensions[x, y]);
             }
         }
+
+        // Jagged Arrays
+        Console.WriteLine(" ----------------------- ");
+        char[][][] gradesMain = new char[2][][];
+        gradesMain[0] = new char[2][];
+        gradesMain[1] = new char[2][];
+
+        gradesMain[0][0] = new char[2] { 'A', 'B' };
+        gradesMain[0][1] = new char[2] { 'C', 'D' };
+        gradesMain[1][0] = new char[2] { 'E', 'F' };
+        gradesMain[1][1] = new char[2] { 'G', 'H' };
+
+        for (int x = 0; x < gradesMain.Length; x++)
+        {
+            for (int y = 0; y < gradesMain[x].Length; y++)
+            {
+                for (int z = 0; z < gradesMain[x][y].Length; z++)
+                {
+                    Console.WriteLine("Grades Main: " + gradesMain[x][y][z]);
+                }
+            }
+        }
     }   
 }
