@@ -1,0 +1,15 @@
+D:\Github-Repositories\c-sharp-practice\lists\bin\Debug\net6.0\lists.exe
+D:\Github-Repositories\c-sharp-practice\lists\bin\Debug\net6.0\lists.deps.json
+D:\Github-Repositories\c-sharp-practice\lists\bin\Debug\net6.0\lists.runtimeconfig.json
+D:\Github-Repositories\c-sharp-practice\lists\bin\Debug\net6.0\lists.dll
+D:\Github-Repositories\c-sharp-practice\lists\bin\Debug\net6.0\lists.pdb
+D:\Github-Repositories\c-sharp-practice\lists\obj\Debug\net6.0\lists.csproj.AssemblyReference.cache
+D:\Github-Repositories\c-sharp-practice\lists\obj\Debug\net6.0\lists.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github-Repositories\c-sharp-practice\lists\obj\Debug\net6.0\lists.AssemblyInfoInputs.cache
+D:\Github-Repositories\c-sharp-practice\lists\obj\Debug\net6.0\lists.AssemblyInfo.cs
+D:\Github-Repositories\c-sharp-practice\lists\obj\Debug\net6.0\lists.csproj.CoreCompileInputs.cache
+D:\Github-Repositories\c-sharp-practice\lists\obj\Debug\net6.0\lists.dll
+D:\Github-Repositories\c-sharp-practice\lists\obj\Debug\net6.0\refint\lists.dll
+D:\Github-Repositories\c-sharp-practice\lists\obj\Debug\net6.0\lists.pdb
+D:\Github-Repositories\c-sharp-practice\lists\obj\Debug\net6.0\lists.genruntimeconfig.cache
+D:\Github-Repositories\c-sharp-practice\lists\obj\Debug\net6.0\ref\lists.dll
